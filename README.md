@@ -21,3 +21,9 @@ Current ESG evaluations often lack actionable insights and overlook critical imp
 3. Providing prioritized recommendations through a rule-based system.
 4. Outlines location-specific characteristics and funding opportunities.
 5. Establishing a pathway to a machine learning-based k-NN model for future adaptability.
+
+## Usage
+
+Current backend assessment and recommendation processes are hosted in the esg_recommender.py and spatial_EJ_assessment.py modules. A jupyter notebook tutorial on the usage of these modules can be viewed in the Tutorial_JupyterNotebook.ipynb file.
+
+ 
